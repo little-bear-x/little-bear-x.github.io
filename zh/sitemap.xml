@@ -2,56 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.ex.com/zh/categories/</loc>
+    <loc>little-bear-x.github.io/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.ex.com/en/categories/"
+                href="little-bear-x.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://www.ex.com/zh/categories/"
+                href="little-bear-x.github.io/zh/categories/"
                 />
   </url><url>
-    <loc>https://www.ex.com/zh/</loc>
+    <loc>little-bear-x.github.io/zh/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.ex.com/en/"
+                href="little-bear-x.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://www.ex.com/zh/"
+                href="little-bear-x.github.io/zh/"
                 />
   </url><url>
-    <loc>https://www.ex.com/zh/series/</loc>
+    <loc>little-bear-x.github.io/zh/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.ex.com/en/series/"
+                href="little-bear-x.github.io/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://www.ex.com/zh/series/"
+                href="little-bear-x.github.io/zh/series/"
                 />
   </url><url>
-    <loc>https://www.ex.com/zh/tags/</loc>
+    <loc>little-bear-x.github.io/zh/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.ex.com/en/tags/"
+                href="little-bear-x.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://www.ex.com/zh/tags/"
+                href="little-bear-x.github.io/zh/tags/"
                 />
   </url><url>
-    <loc>https://www.ex.com/zh/posts/</loc>
+    <loc>little-bear-x.github.io/zh/posts/</loc>
   </url><url>
-    <loc>https://www.ex.com/zh/posts/94c5wyqymhurphh2vzjluq/</loc>
+    <loc>little-bear-x.github.io/zh/posts/94c5wyqymhurphh2vzjluq/</loc>
   </url>
 </urlset>
