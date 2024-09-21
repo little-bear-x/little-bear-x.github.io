@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>博客 on Little Bear</title>
+    <link>https://www.ex.com/zh/posts/</link>
+    <description>Recent content in 博客 on Little Bear</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language><atom:link href="https://www.ex.com/zh/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>什么也没有</title>
+      <link>https://www.ex.com/zh/posts/94c5wyqymhurphh2vzjluq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ex.com/zh/posts/94c5wyqymhurphh2vzjluq/</guid>
+      <description>&lt;p&gt;这里空空如也&amp;hellip;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;code&gt;文章标识码: 279972e4-dc58-40f3-aa07-d80c4820d092&lt;/code&gt;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
