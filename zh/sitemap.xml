@@ -2,56 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>little-bear-x.github.io/zh/categories/</loc>
+    <loc>https://little-bear-x.github.io/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="little-bear-x.github.io/en/categories/"
+                href="https://little-bear-x.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="little-bear-x.github.io/zh/categories/"
+                href="https://little-bear-x.github.io/zh/categories/"
                 />
   </url><url>
-    <loc>little-bear-x.github.io/zh/</loc>
+    <loc>https://little-bear-x.github.io/zh/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="little-bear-x.github.io/en/"
+                href="https://little-bear-x.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="little-bear-x.github.io/zh/"
+                href="https://little-bear-x.github.io/zh/"
                 />
   </url><url>
-    <loc>little-bear-x.github.io/zh/series/</loc>
+    <loc>https://little-bear-x.github.io/zh/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="little-bear-x.github.io/en/series/"
+                href="https://little-bear-x.github.io/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="little-bear-x.github.io/zh/series/"
+                href="https://little-bear-x.github.io/zh/series/"
                 />
   </url><url>
-    <loc>little-bear-x.github.io/zh/tags/</loc>
+    <loc>https://little-bear-x.github.io/zh/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="little-bear-x.github.io/en/tags/"
+                href="https://little-bear-x.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="little-bear-x.github.io/zh/tags/"
+                href="https://little-bear-x.github.io/zh/tags/"
                 />
   </url><url>
-    <loc>little-bear-x.github.io/zh/posts/</loc>
+    <loc>https://little-bear-x.github.io/zh/posts/</loc>
   </url><url>
-    <loc>little-bear-x.github.io/zh/posts/94c5wyqymhurphh2vzjluq/</loc>
+    <loc>https://little-bear-x.github.io/zh/posts/94c5wyqymhurphh2vzjluq/</loc>
   </url>
 </urlset>
