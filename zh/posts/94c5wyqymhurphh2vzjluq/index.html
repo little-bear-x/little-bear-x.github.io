@@ -7,8 +7,7 @@
 <meta name="robots" content="index, follow">
 <title>什么也没有 | Little Bear</title>
 <meta name="keywords" content="">
-<meta name="description" content="这里空空如也&hellip;&hellip;
-文章标识码: 279972e4-dc58-40f3-aa07-d80c4820d092">
+<meta name="description" content="这是一篇测试文章">
 <meta name="author" content="Little bear">
 <link rel="canonical" href="https://little-bear-x.github.io/zh/posts/94c5wyqymhurphh2vzjluq/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.6a98292fb8fa8cf0f3ba4042d4b75515c04267550f3ad49ff6271b5af9562443.css" integrity="sha256-apgpL7j6jPDzukBC1LdVFcBCZ1UPOtSf9icbWvlWJEM=" rel="preload stylesheet" as="style">
@@ -59,8 +58,7 @@
 
     </style>
 </noscript><meta property="og:title" content="什么也没有" />
-<meta property="og:description" content="这里空空如也&hellip;&hellip;
-文章标识码: 279972e4-dc58-40f3-aa07-d80c4820d092" />
+<meta property="og:description" content="这是一篇测试文章" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://little-bear-x.github.io/zh/posts/94c5wyqymhurphh2vzjluq/" /><meta property="article:section" content="posts" />
 
@@ -68,8 +66,7 @@
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="什么也没有"/>
-<meta name="twitter:description" content="这里空空如也&hellip;&hellip;
-文章标识码: 279972e4-dc58-40f3-aa07-d80c4820d092"/>
+<meta name="twitter:description" content="这是一篇测试文章"/>
 
 
 <script type="application/ld+json">
@@ -98,7 +95,7 @@
   "@type": "BlogPosting",
   "headline": "什么也没有",
   "name": "什么也没有",
-  "description": "这里空空如也\u0026hellip;\u0026hellip;\n文章标识码: 279972e4-dc58-40f3-aa07-d80c4820d092\n",
+  "description": "这是一篇测试文章",
   "keywords": [
     
   ],
@@ -139,7 +136,8 @@
 
 </script>
 
-<header class="header">
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+  <meta name="referrer" content="no-referrer-when-downgrade"><header class="header">
     <nav class="nav">
         <div class="logo">
             <a href="https://little-bear-x.github.io/zh/" accesskey="h" title="Little Bear (Alt + H)">Little Bear</a>
@@ -194,6 +192,16 @@
     <h1 class="post-title">
       什么也没有
     </h1>
+    <div class="post-description">
+      这是一篇测试文章
+    </div>
+    <div class="post-meta">预计阅读时间：1min | Little bear
+
+
+      <div  class="meta-item">
+          <span id="busuanzi_container_page_pv"> | 本文阅读量<span id="busuanzi_value_page_pv"></span>次</span>
+      </div>
+    </div>
   </header> 
 
   <div class="post-content"><p>这里空空如也&hellip;&hellip;</p>
@@ -213,7 +221,56 @@
   </a>
 </nav>
 
-  </footer>
+  </footer><div id="tw-comment"></div>
+<script>
+    const getStoredTheme = () => localStorage.getItem("pref-theme") === "dark" ? "dark" : "light";
+    const setGiscusTheme = () => {
+        const sendMessage = (message) => {
+            const iframe = document.querySelector('iframe.giscus-frame');
+            if (iframe) {
+                iframe.contentWindow.postMessage({giscus: message}, 'https://giscus.app');
+            }
+        }
+        sendMessage({setConfig: {theme: getStoredTheme()}})
+    }
+
+    document.addEventListener("DOMContentLoaded", () => {
+        const giscusAttributes = {
+            "src": "https://giscus.app/client.js",
+            "data-repo": "little-bear-x\/little-bear-x.github.io",
+            "data-repo-id": "R_kgDOM08LXw",
+            "data-category": "Announcements",
+            "data-category-id": "DIC_kwDOM08LX84CjBqA",
+            "data-mapping": "pathname",
+            "data-strict": "0",
+            "data-reactions-enabled": "1",
+            "data-emit-metadata": "0",
+            "data-input-position": "top",
+            "data-theme": getStoredTheme(),
+            "data-lang": "zh-CN",
+            "data-loading": "lazy",
+            "crossorigin": "anonymous",
+            "async": "",
+        };
+
+        
+        const giscusScript = document.createElement("script");
+        Object.entries(giscusAttributes).forEach(
+                ([key, value]) => giscusScript.setAttribute(key, value));
+        document.querySelector("#tw-comment").appendChild(giscusScript);
+
+        
+        const themeSwitcher = document.querySelector("#theme-toggle");
+        if (themeSwitcher) {
+            themeSwitcher.addEventListener("click", setGiscusTheme);
+        }
+        const themeFloatSwitcher = document.querySelector("#theme-toggle-float");
+        if (themeFloatSwitcher) {
+            themeFloatSwitcher.addEventListener("click", setGiscusTheme);
+        }
+    });
+</script>
+
 </article>
     </main>
     
