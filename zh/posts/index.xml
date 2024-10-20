@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>博客 on Little Bear</title>
+    <link>https://little-bear-x.github.io/zh/posts/</link>
+    <description>Recent content in 博客 on Little Bear</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 20 Oct 2024 19:02:00 +0800</lastBuildDate><atom:link href="https://little-bear-x.github.io/zh/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>一次被硬盘坑惨的经历</title>
+      <link>https://little-bear-x.github.io/zh/posts/jhmgvsctytqspx3wko9wzb/</link>
+      <pubDate>Sun, 20 Oct 2024 19:02:00 +0800</pubDate>
+      
+      <guid>https://little-bear-x.github.io/zh/posts/jhmgvsctytqspx3wko9wzb/</guid>
+      <description>记录一次被硬盘坑惨的经历（真的无语了）</description>
+    </item>
+    
+    <item>
+      <title>网站最新更新日志</title>
+      <link>https://little-bear-x.github.io/zh/posts/agpylmqpr8ac9ir6bxzztn/</link>
+      <pubDate>Fri, 04 Oct 2024 18:00:00 +0800</pubDate>
+      
+      <guid>https://little-bear-x.github.io/zh/posts/agpylmqpr8ac9ir6bxzztn/</guid>
+      <description>&lt;h1 id=&#34;更新内容&#34;&gt;更新内容&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;新增了评论系统，评论基于github discussion，所以不一定非常稳定&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;新增网站浏览次数统计&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;修复已知的bug&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;em&gt;&lt;code&gt;文章标识码: b551134b-8ac8-44bd-bb66-7118bb8d6370&lt;/code&gt;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>rust-mine-2d 0.2.1更新日志</title>
+      <link>https://little-bear-x.github.io/zh/posts/ncwoqidxyhtnkkerrocknc/</link>
+      <pubDate>Fri, 04 Oct 2024 17:30:00 +0800</pubDate>
+      
+      <guid>https://little-bear-x.github.io/zh/posts/ncwoqidxyhtnkkerrocknc/</guid>
+      <description>一个关于rust-mine-2d的更新日志</description>
+    </item>
+    
+    <item>
+      <title>rust craft 2d 游戏项目介绍</title>
+      <link>https://little-bear-x.github.io/zh/posts/dby3dhbqrdet8ppl4pagnf/</link>
+      <pubDate>Thu, 03 Oct 2024 15:15:00 +0800</pubDate>
+      
+      <guid>https://little-bear-x.github.io/zh/posts/dby3dhbqrdet8ppl4pagnf/</guid>
+      <description>一个应该挺正经的项目介绍</description>
+    </item>
+    
+    <item>
+      <title>什么也没有</title>
+      <link>https://little-bear-x.github.io/zh/posts/94c5wyqymhurphh2vzjluq/</link>
+      <pubDate>Sat, 28 Sep 2024 19:30:00 +0800</pubDate>
+      
+      <guid>https://little-bear-x.github.io/zh/posts/94c5wyqymhurphh2vzjluq/</guid>
+      <description>这是一篇测试文章</description>
+    </item>
+    
+  </channel>
+</rss>
